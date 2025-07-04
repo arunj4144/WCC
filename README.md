@@ -159,5 +159,5 @@ Admin menu items in the Google Sheet:
 ---
 
 ## ✅ Download
-
+download as zip maybe?
 ```
